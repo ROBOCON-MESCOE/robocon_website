@@ -1,0 +1,17 @@
+.margin{
+    margin: 5% 0;
+}
+.parallax{
+    background:rgba(0, 0, 0, 0.6) url('https://www.amrita.edu/site/robotsavam-2017/images/PICS/soccer/soc1.jpg') no-repeat fixed center/cover;
+    background-blend-mode: darken ;
+}
+
+.parallax-inner{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    padding-left: 20%;
+    padding-right: 20%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 1.2rem;
+}
