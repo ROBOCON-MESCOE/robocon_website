@@ -3,7 +3,7 @@ import './OurEvents.css';
 
 const OurEvents = () => {
     return (
-        <div className="flex justify-around">
+        <div className="flex justify-around mb4">
             <div className="w-50 flex justify-center items-center">
                 <img style={{height:"360px"}} src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=750&q=80" alt=" "></img>
             </div>
