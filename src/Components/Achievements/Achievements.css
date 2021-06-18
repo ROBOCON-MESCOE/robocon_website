@@ -1,0 +1,14 @@
+.heading{
+    color: #65617D;
+    font-weight: 700;
+    font-size: 3rem;
+}
+
+.button-color{
+    background-color: #6C63FF;
+    border-radius: 25px;
+}
+
+.achieve{
+    height: 100vh;
+}
